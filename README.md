@@ -75,7 +75,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 [![Nguyen Thi Huynh Nga](https://avatars.githubusercontent.com/u/101682185?s=400&u=ddfad281512e1550579957b19d298fe049e3fdba&v=4)](https://github.com/huynhngaa)  | [![Truc Quyen Tran](https://avatars.githubusercontent.com/u/101681888?v=4)](https://github.com/trucquyentran)
 ---|---
-[Nguyen Thi Huynh Nga ](https://github.com/huynhngaa) |[Truc Quyen Tran]([https://www.quandl.com](https://github.com/trucquyentran)
+[Nguyen Thi Huynh Nga ](https://github.com/huynhngaa) |[Truc Quyen Tran](https://github.com/trucquyentran)
 
 ## [License]
 
