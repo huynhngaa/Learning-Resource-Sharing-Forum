@@ -15,6 +15,7 @@ In particular, the title of the discussion topic and the content of the learning
 ![]( https://github.com/huynhngaa/docswap/blob/master/assets/img/demo/trunglap.png)
 
 <hr>
+
 ### Built With
 
 <p align="center">
@@ -24,6 +25,7 @@ In particular, the title of the discussion topic and the content of the learning
 </p>
 
 <hr>
+
 ## Team
 
 [![Nguyen Thi Huynh Nga](https://avatars.githubusercontent.com/u/101682185?s=400&u=ddfad281512e1550579957b19d298fe049e3fdba&v=4)](https://github.com/huynhngaa)  | [![Truc Quyen Tran](https://avatars.githubusercontent.com/u/101681888?v=4)](https://github.com/trucquyentran)
