@@ -79,5 +79,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
+MIT © [Nguyen Thi Huynh Nga ](https://github.com/huynhngaa)
 
