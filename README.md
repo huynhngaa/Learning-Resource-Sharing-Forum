@@ -1,4 +1,3 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
 # WebApp
 <table>
 <tr>
@@ -8,16 +7,11 @@
 </tr>
 </table>
 
-
-## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
-
-
 ## Site
 
 ### Home Page
 
-![](hhttps://github.com/huynhngaa/docswap/blob/master/assets/img/demo/home.png)
+![](https://github.com/huynhngaa/docswap/blob/master/assets/img/demo/home.png)
 
 ### DashBoard
 ![]( https://github.com/huynhngaa/docswap/blob/master/assets/img/demo/dash.png)
@@ -26,11 +20,16 @@ Here is a working live demo :  https://iharsh234.github.io/WebApp/
 ![]( https://github.com/huynhngaa/docswap/blob/master/assets/img/demo/trunglap.png)
 
 
-## Built with 
+### Built With
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 
 ## Team
