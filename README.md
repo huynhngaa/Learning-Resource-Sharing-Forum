@@ -27,7 +27,7 @@ In particular, the title of the discussion topic and the content of the learning
 
 ## Team
 
-[![Nguyen Thi Huynh Nga](<img src="(https://avatars.githubusercontent.com/u/101682185?s=400&u=ddfad281512e1550579957b19d298fe049e3fdba&v=4)](https://github.com/huynhngaa)" width="128"/>)  | [![Truc Quyen Tran](https://avatars.githubusercontent.com/u/101681888?v=4)](https://github.com/trucquyentran)
+[![Nguyen Thi Huynh Nga](<img src="https://avatars.githubusercontent.com/u/101682185?s=400&u=ddfad281512e1550579957b19d298fe049e3fdba&v=4)" width="128"/>)  | [![Truc Quyen Tran](https://avatars.githubusercontent.com/u/101681888?v=4)](https://github.com/trucquyentran)
 ---|---
 [Nguyen Thi Huynh Nga ](https://github.com/huynhngaa) |[Truc Quyen Tran](https://github.com/trucquyentran)
 
